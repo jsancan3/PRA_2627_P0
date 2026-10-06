@@ -1,0 +1,5 @@
+*.o
+main_program
+*~
+*.swp
+*.swo
